@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bgorkem.github.io/csb-dd1vx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://bgorkem.github.io/csb-dd1vx/static/js/main.7e15e667.chunk.js",
+    "main.js.map": "https://bgorkem.github.io/csb-dd1vx/static/js/main.7e15e667.chunk.js.map",
+    "runtime-main.js": "https://bgorkem.github.io/csb-dd1vx/static/js/runtime-main.df02188e.js",
+    "runtime-main.js.map": "https://bgorkem.github.io/csb-dd1vx/static/js/runtime-main.df02188e.js.map",
+    "static/js/2.1a8e98d1.chunk.js": "https://bgorkem.github.io/csb-dd1vx/static/js/2.1a8e98d1.chunk.js",
+    "static/js/2.1a8e98d1.chunk.js.map": "https://bgorkem.github.io/csb-dd1vx/static/js/2.1a8e98d1.chunk.js.map",
+    "index.html": "https://bgorkem.github.io/csb-dd1vx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://bgorkem.github.io/csb-dd1vx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.1a8e98d1.chunk.js.LICENSE.txt": "https://bgorkem.github.io/csb-dd1vx/static/js/2.1a8e98d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df02188e.js",
+    "static/js/2.1a8e98d1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7e15e667.chunk.js"
+  ]
+}
